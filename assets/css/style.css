@@ -79,3 +79,18 @@ a {
 .header .action {
   margin-left: 49px;
 }
+/* ------hero------ */
+.hero .body {
+  display: flex;
+}
+.hero .media-block {
+  width: 48%;
+}
+.hero .content-block {
+  width: 52%;
+}
+.hero .media-block .img {
+  width: 470px;
+  height: 685px;
+  object-fit: cover;
+}
